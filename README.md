@@ -3,7 +3,7 @@
 ### USAGE
 To use this program, head to the terminal and type:
 ```
-python3 web crawler.py -u < site − name > -t < threshold > -o < output − f ile − name >
+python3 web crawler.py -u < site − name > -t < threshold > -o < output − file − name >
 ```
 • -u: Enter a valid URL
 for the URL, If not given then it will print an error on the command line.<br>
